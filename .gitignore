@@ -13,3 +13,4 @@ Servers
 mvnw
 mvnw.cmd
 .scannerwork
+.sonarlint
